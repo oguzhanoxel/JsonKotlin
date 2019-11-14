@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity">
+    <TextView
+        android:id="@+id/nameTextView"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name" />
+    <TextView
+        android:textColor="@android:color/black"
+        android:id="@+id/baseTextView"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Base" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:id="@+id/decimalTextView"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Decimal" />
+    <TextView
+        android:textColor="@android:color/black"
+        android:id="@+id/wordTextView"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Word" />
+</LinearLayout>

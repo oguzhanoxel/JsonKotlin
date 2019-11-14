@@ -1,0 +1,82 @@
+[
+  {
+    "base10": "10^6",
+    "base1000": "1000^2",
+    "decimal": 1000000.0,
+    "englishWord": {
+      "shortScale": "million"
+    },
+    "name": "mega",
+    "symbol": "M"
+  },
+  {
+    "base10": "10^3",
+    "base1000": "1000^1",
+    "decimal": 1000.0,
+    "englishWord": {
+      "shortScale": "thousand"
+    },
+    "name": "kilo",
+    "symbol": "k"
+  },
+  {
+    "base10": "10^2",
+    "base1000": "1000^(2/3)",
+    "decimal": 100.0,
+    "englishWord": {
+      "shortScale": "hundred"
+    },
+    "name": "hecto",
+    "symbol": "h"
+  },
+  {
+    "base10": "10^1",
+    "base1000": "1000^(1/3)",
+    "decimal": 10.0,
+    "englishWord": {
+      "shortScale": "ten"
+    },
+    "name": "deca",
+    "symbol": "da"
+  },
+  {
+    "base10": "10^(-1)",
+    "base1000": "1000^(-1/3)",
+    "decimal": 0.1,
+    "englishWord": {
+      "shortScale": "tenth"
+    },
+    "name": "deci",
+    "symbol": "d"
+  },
+  {
+    "base10": "10^(-2)",
+    "base1000": "1000^(-2/3)",
+    "decimal": 0.01,
+    "englishWord": {
+      "shortScale": "hundredth"
+    },
+    "name": "centi",
+    "symbol": "c"
+  },
+  {
+    "base10": "10^(-3)",
+    "base1000": "1000^(-1)",
+    "decimal": 0.001,
+    "englishWord": {
+      "shortScale": "thousandth"
+    },
+    "name": "milli",
+    "symbol": "m"
+  },
+  {
+    "base10": "10^(-6)",
+    "base1000": "1000^(-2)",
+    "decimal": 1.0E-6,
+    "englishWord": {
+      "shortScale": "millionth"
+    },
+    "name": "micro",
+    "symbol": "μ"
+  }
+]
